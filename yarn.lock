@@ -348,22 +348,22 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.24":
-  version "1.0.24"
-  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.24.tgz#ab0cc2b66f4f2ea25db8fc29f85a18344ac8ede5"
-  integrity sha512-Auhx6+e1l7vBiKEAWz8ynmRcVGUTUAS9I8AAT9ArFPmsDTkxFHADNGY6z/8bAJ3AGbDHxU2AFQa3LKN4W3MeoQ==
+"@juigorg/sit-nam-neque@^2.0.24":
+  version "2.0.24"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-2.0.24.tgz#c9d22f32f9a8a15a264ca3720908a5778f316c01"
+  integrity sha512-T8HQAE2n7VCD12A0Qz21VrgsPJWyfHjSKar/OzWHXqOzdn8+Qx78rw0ZXl5osbZjfXN6VKap2wAm8YOKFQgvfg==
   dependencies:
-    "@dramaorg/quae-dolore-nostrum" "^2.1.21"
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
     "@juigorg/musical-happiness" "^2.0.8"
-    "@juigorg/nisi-molestiae-ut" "^2.1.21"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
     "@juigorg/reimagined-fishstick" "^1.1.7"
     "@juigorg/succotash" "^1.1.7"
-    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
-    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.21"
-    "@zitterorg/eum-veritatis-placeat" "^2.1.21"
-    "@zitterorg/illum-perferendis-consectetur" "^2.2.21"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.23"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
+    "@zitterorg/illum-perferendis-consectetur" "^3.2.21"
     analsorhost-simple-bs "^1.0.1"
     corcojs-qrcode "^1.0.0"
     corcojs-qrcode-logo "^1.0.0"
@@ -590,13 +590,13 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@kollorg/dicta-itaque-nemo@^1.1.23":
-  version "1.1.23"
-  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.1.23.tgz#90bdf4ad8bfa59f3c8cbccf92a842d10f0b9ec94"
-  integrity sha512-loIH13Nx9SYZVKJMXy03t174V3kr36iXrLqCt/dShatmDo7BYA8rlPz2VkS4QJLHYLg7UaZGbEdBpdVPv3Lb4A==
+"@kollorg/dicta-itaque-nemo@^1.1.24":
+  version "1.1.24"
+  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.1.24.tgz#68e40bfc6bf2278310e70c2f146c23b4e3b718de"
+  integrity sha512-SqxKEcBXi99hqZYyZoPrJvx26viAqkvWtkxyEUuzZaFC6XaDKxFgBeK1gSSpCF41uiUtRYnmy3EjLeeGt6Rmcg==
   dependencies:
-    "@dramaorg/quae-dolore-nostrum" "^2.1.21"
-    "@juigorg/nisi-molestiae-ut" "^2.1.21"
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
     "@kollorg/aliquid-dolore-necessitatibus" "^1.0.1"
     "@kollorg/architecto-eos-ex" "^1.0.0"
     "@kollorg/at-consequatur-deserunt" "^1.0.1"
@@ -615,16 +615,16 @@
     "@kollorg/modi-fugit-accusantium" "^1.0.1"
     "@kollorg/mollitia-quasi-aspernatur" "^1.0.1"
     "@kollorg/mollitia-quod-molestias" "^1.0.1"
-    "@kollorg/nihil-veniam-deserunt" "^1.2.21"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
     "@kollorg/omnis-quibusdam-officiis" "^1.0.0"
     "@kollorg/optio-reprehenderit-earum" "^1.0.1"
     "@kollorg/ratione-unde-dolores" "^1.0.0"
     "@kollorg/sunt-qui-facilis" "^1.0.1"
     "@kollorg/velit-incidunt-dignissimos" "^1.0.1"
     "@kollorg/voluptates-pariatur-repudiandae" "^1.0.1"
-    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.21"
-    "@zitterorg/eum-veritatis-placeat" "^2.1.21"
-    "@zitterorg/illum-perferendis-consectetur" "^2.2.21"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
+    "@zitterorg/illum-perferendis-consectetur" "^3.2.21"
     analsorhost-simple-bs "^1.0.1"
     corcojs-qrcode "^1.0.0"
     corcojs-qrcode-logo "^1.0.0"
@@ -985,6 +985,32 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
+"@kollorg/nihil-veniam-deserunt@^1.2.23":
+  version "1.2.23"
+  resolved "https://registry.yarnpkg.com/@kollorg/nihil-veniam-deserunt/-/nihil-veniam-deserunt-1.2.23.tgz#0507e66934f090e7ab532fa5c26d50d8002e2283"
+  integrity sha512-wJoRomqmMTSoEaz/9+iiYTzDQtrQsPJJGceu3VjeDUbxQ6Yd+iyCjOHoYauiWyysj0dXr2tEGqLZvHkPrQnQ4g==
+  dependencies:
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
+    "@kollorg/aliquid-dolore-necessitatibus" "^1.0.0"
+    "@kollorg/architecto-eos-ex" "^1.0.0"
+    "@kollorg/distinctio-facilis-illum" "^1.0.0"
+    "@kollorg/legendary-robot" "^1.0.2"
+    "@kollorg/minima-perferendis-ipsa" "^1.0.0"
+    "@kollorg/mollitia-quod-molestias" "^1.0.0"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
+    "@kollorg/optio-reprehenderit-earum" "^1.0.0"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
+    "@zitterorg/illum-perferendis-consectetur" "^3.2.21"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
 "@kollorg/omnis-quibusdam-officiis@^1.0.0":
   version "1.1.12"
   resolved "https://registry.yarnpkg.com/@kollorg/omnis-quibusdam-officiis/-/omnis-quibusdam-officiis-1.1.12.tgz#3ad433b41a6827676f263e284b565790957d35ea"
@@ -1188,19 +1214,19 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@swenkerorg/modi-dolorum-provident@^3.3.19":
-  version "3.3.19"
-  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-3.3.19.tgz#955b5dba3cda5acaaa500ea019d2be714e6dc928"
-  integrity sha512-g7nUzXs0Aua8NmwYgs33OJvd0Vm7yuhM26SIWD7HEbWJWmUXjmHULlfrUwh4ABkQcfcEtNBm+1XHObrw2uFkCQ==
+"@swenkerorg/modi-dolorum-provident@^3.4.19":
+  version "3.4.19"
+  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-3.4.19.tgz#4d3441f913888b19cfe4a3c7c3883a06c9d45afd"
+  integrity sha512-u2GbSIhQznlcEq3b7UkHygwt9Z85D6jHE5KG5CNGf0AGum00r//rh0El3BESSmcNRREEereZAyKeaBgsq91jUg==
   dependencies:
-    "@dramaorg/quae-dolore-nostrum" "^2.1.21"
-    "@juigorg/nisi-molestiae-ut" "^2.1.21"
-    "@kollorg/nihil-veniam-deserunt" "^1.2.21"
-    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.21"
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
     "@swenkerorg/potential-waddle" "^1.0.2"
     "@swenkerorg/super-duper" "^1.0.2"
-    "@zitterorg/eum-veritatis-placeat" "^2.1.21"
-    "@zitterorg/illum-perferendis-consectetur" "^2.2.21"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
+    "@zitterorg/illum-perferendis-consectetur" "^3.2.21"
     analsorhost-simple-bs "^1.0.1"
     corcojs-qrcode "^1.0.0"
     corcojs-qrcode-logo "^1.0.0"
@@ -2688,19 +2714,19 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@zitterorg/aspernatur-pariatur-occaecati@^6.3.16":
-  version "6.3.16"
-  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-6.3.16.tgz#d7947eb48cea30aa2aacc8e4e2209a3145b6b61c"
-  integrity sha512-hQnLV3UyABTum13NDmCkiv6siAy49uHEzZRobQXP1SKuROQfrMkHiYKHUBLF/p3IXyvDNIrr5f2U2ptZC7elqA==
+"@zitterorg/aspernatur-pariatur-occaecati@^6.4.16":
+  version "6.4.16"
+  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-6.4.16.tgz#183793923dffbef5715e7e35f4588f562d1e2e87"
+  integrity sha512-HW4hi5AK8Dv2LelRd5PvxngWjyzkot9MxXS5H63xhUXGToM+cv8bzAQhhSUb3KU1XaIiO7fDlVpgdASjh9aN+w==
   dependencies:
-    "@dramaorg/quae-dolore-nostrum" "^2.1.21"
-    "@juigorg/nisi-molestiae-ut" "^2.1.21"
-    "@kollorg/nihil-veniam-deserunt" "^1.2.21"
-    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.21"
-    "@zitterorg/eum-veritatis-placeat" "^2.1.21"
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
-    "@zitterorg/illum-perferendis-consectetur" "^2.2.21"
+    "@zitterorg/illum-perferendis-consectetur" "^3.2.21"
     "@zitterorg/probable-octo" "^1.1.4"
     "@zitterorg/upgraded-fishstick" "^1.1.0"
     analsorhost-simple-bs "^1.0.1"
@@ -2890,6 +2916,30 @@
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
     "@zitterorg/illum-perferendis-consectetur" "^2.2.20"
+    "@zitterorg/probable-octo" "^1.1.4"
+    "@zitterorg/upgraded-fishstick" "^1.1.0"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
+"@zitterorg/illum-perferendis-consectetur@^3.2.21":
+  version "3.2.21"
+  resolved "https://registry.yarnpkg.com/@zitterorg/illum-perferendis-consectetur/-/illum-perferendis-consectetur-3.2.21.tgz#a217f6783a9e18c70ae934a9bcbf9b7531ceefb0"
+  integrity sha512-ilsolXBgYmWGX3+yHBM6+nvA+j7QhNDssbR9ehPcy/CiR1gfcoxCW1mCrxbNIDVMc+Q9ZNDXI4gXguu4Vw/l1Q==
+  dependencies:
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
+    "@zitterorg/aspernatur-pariatur-occaecati" "^1.0.0"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
+    "@zitterorg/fluffy-waddle" "^2.3.4"
+    "@zitterorg/glowing-barnacle" "^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur" "^2.2.21"
     "@zitterorg/probable-octo" "^1.1.4"
     "@zitterorg/upgraded-fishstick" "^1.1.0"
     analsorhost-simple-bs "^1.0.1"
